@@ -1,0 +1,19 @@
+#hero-image {
+  background-image: url(../images/japanese-food.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:500px;
+  position:relative;
+}
+
+#cta {
+  background-color:rgba(0,0,0,0.75);
+  position:absolute;
+  top:25%;
+  left:5%;
+  font-size:24px;
+  font-family:Verdana;
+  color:white;
+  padding:20px;
+  
+}

@@ -1,0 +1,14 @@
+
+#nav {
+  display:flex;
+  justify-content:space-around;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+
+#nav li {
+  background-color: aliceblue;
+  flex:1;
+  padding:5px 5px;
+}
